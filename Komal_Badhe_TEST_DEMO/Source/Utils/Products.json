@@ -1,0 +1,155 @@
+[
+    {
+        "categoryName": "Fruits",
+        "categoryID": "111",
+        "categoryImage" : "fruirtbanner.jpeg",
+        "products" : [
+            {
+                "productName" : "Apple",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Banana",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Figs",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Coconut",
+                "productImage" : ""
+            }, {
+                "productName" : "Guava",
+                "productImage" : ""
+            }
+        ]
+    },
+    {
+        "categoryName": "Vegetables",
+        "categoryID": "112",
+        "categoryImage" : "Vegetablesbanner.jpeg",
+        "products" : [
+            {
+                "productName" : "Tomato",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Potato",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Pumpkin",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Mint leaves",
+                "productImage" : ""
+            }, {
+                "productName" : "Onion",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Mushroom",
+                "productImage" : ""
+            }
+        ]
+    },
+    {
+        "categoryName": "Oils",
+        "categoryID": "113",
+        "categoryImage" : "oilsBanner.jpeg",
+        "products" : [
+            {
+                "productName" : "Mustard Oil",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Sunflower Oil",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Olive Oil",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Rice Bran Oil",
+                "productImage" : ""
+            }, {
+                "productName" : "Groundnut Oil",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Coconut Oil",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Soybean Oil",
+                "productImage" : ""
+            }
+        ]
+    },
+    {
+        "categoryName": "Masala",
+        "categoryID": "114",
+        "categoryImage" : "MasalaBanner.jpeg",
+        "products" : [
+            {
+                "productName" : "Turmeric",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Cumin",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Green Cardamom",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Coriander",
+                "productImage" : ""
+            }, {
+                "productName" : "Fenugreek",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Cinnamon/Cassia Bark",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Fennel",
+                "productImage" : ""
+            }, {
+                "productName" : "Nutmeg",
+                "productImage" : ""
+            }
+        ]
+    },
+    {
+        "categoryName": "Beverages",
+        "categoryID": "115",
+        "categoryImage" : "BeveragesBanner.jpeg",
+        "products" : [
+            {
+                "productName" : "Coca-Cola",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Thums Up",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Sprite",
+                "productImage" : ""
+            },
+            {
+                "productName" : "Limca",
+                "productImage" : ""
+            }, {
+                "productName" : "Fanta",
+                "productImage" : ""
+            }
+        ]
+    }
+]
